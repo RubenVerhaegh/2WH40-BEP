@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2774ff5-2d99-403d-9280-512e13def68b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../GraphConnectivity/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#846#847#0" expanded="true" />
+                <element signature="e#906#907#0" expanded="true" />
+                <element signature="method#generateGadgets#0;class#Main#0" />
+                <element signature="method#findGoodAndBadCycles#0;class#Main#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GraphGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2632">
+              <caret line="463" column="5" lean-forward="true" selection-start-line="463" selection-start-column="5" selection-end-line="463" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;method#generateCycle#0;class#GraphGenerator#0" />
+                <element signature="docComment;method#generateCompleteGraph#0;class#GraphGenerator#0" />
+                <element signature="docComment;method#generateLadder#0;class#GraphGenerator#0" />
+                <element signature="method#generateLadder#0;class#GraphGenerator#0" />
+                <element signature="docComment;method#generateRandomLinkedCycle#0;class#GraphGenerator#0" />
+                <element signature="method#generateRandomLinkedCycle#0;class#GraphGenerator#0" />
+                <element signature="docComment;method#generateSpokesGraph#0;class#GraphGenerator#0" />
+                <element signature="method#generateSpokesGraph#0;class#GraphGenerator#0" />
+                <element signature="method#generateGridLikeCycle#0;class#GraphGenerator#0" />
+                <element signature="method#generateWeirdGraph#0;class#GraphGenerator#0" />
+                <element signature="docComment;method#generateClosedLadder#0;class#GraphGenerator#0" />
+                <element signature="method#generateClosedLadder#0;class#GraphGenerator#0" />
+                <element signature="docComment;method#generateRandomCycleGadget4#0;class#GraphGenerator#0" />
+                <element signature="method#generateRandomCycleGadget4#0;class#GraphGenerator#0" />
+                <element signature="docComment;method#generateRandomCycleGadget1#0;class#GraphGenerator#0" />
+                <element signature="method#generateRandomCycleGadget1#0;class#GraphGenerator#0" />
+                <element signature="method#generateRandomCycleGadget2#0;class#GraphGenerator#0" />
+                <element signature="method#generateRandomCycleGadget#0;class#GraphGenerator#0" />
+                <element signature="method#generateRandomGadget#0;class#GraphGenerator#0" />
+                <element signature="method#generateRandomGraph#0;class#GraphGenerator#0" />
+                <element signature="method#gadgetizeGraph#0;class#GraphGenerator#0" />
+                <element signature="method#generateSquareGadget#0;class#GraphGenerator#0" />
+                <element signature="method#complement#0;class#GraphGenerator#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GraphAnalyzer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="250" column="4" selection-start-line="250" selection-start-column="4" selection-end-line="250" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;method#computeCIS#0;class#GraphAnalyzer#0" />
+                <element signature="method#computeCIS#0;class#GraphAnalyzer#0" />
+                <element signature="docComment;method#computeCIS#1;class#GraphAnalyzer#0" />
+                <element signature="docComment;method#printCIS#0;class#GraphAnalyzer#0" />
+                <element signature="method#printCIS#0;class#GraphAnalyzer#0" />
+                <element signature="docComment;method#inducedGraph#0;class#GraphAnalyzer#0" />
+                <element signature="method#inducedGraph#0;class#GraphAnalyzer#0" />
+                <element signature="docComment;method#isConnected#0;class#GraphAnalyzer#0" />
+                <element signature="method#isConnected#0;class#GraphAnalyzer#0" />
+                <element signature="method#getConnectedSubsets#0;class#GraphAnalyzer#0" />
+                <element signature="method#getConnectedSubsets#1;class#GraphAnalyzer#0" />
+                <element signature="docComment;method#getRandomMaximumMatching#0;class#GraphAnalyzer#0" />
+                <element signature="method#getRandomMaximumMatching#0;class#GraphAnalyzer#0" />
+                <element signature="method#getRandomMatching#0;class#GraphAnalyzer#0" />
+                <element signature="docComment;method#augmentMatching#0;class#GraphAnalyzer#0" />
+                <element signature="method#augmentMatching#0;class#GraphAnalyzer#0" />
+                <element signature="docComment;method#findAugmentingPath#0;class#GraphAnalyzer#0" />
+                <element signature="method#findAugmentingPath#0;class#GraphAnalyzer#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Gadget.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2100">
+              <caret line="333" column="45" selection-start-line="333" selection-start-column="45" selection-end-line="333" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#computePathValues#0;class#Gadget#0" />
+                <element signature="method#computePathValues#1;class#Gadget#0" />
+                <element signature="method#reverseBitStringToInt#0;class#Gadget#0" />
+                <element signature="method#intToReverseBitstring#0;class#Gadget#0" />
+                <element signature="method#getPathValues#0;class#Gadget#0" />
+                <element signature="method#getRecursionMatrix#0;class#Gadget#0" />
+                <element signature="method#getMaxEigenvalue#0;class#Gadget#0" />
+                <element signature="method#max#0;class#Gadget#0" />
+                <element signature="method#leftToBitstring#0;class#Gadget#0" />
+                <element signature="method#excludableSubsets#0;class#Gadget#0" />
+                <element signature="method#excludableSubsets#1;class#Gadget#0" />
+                <element signature="method#isFalse#0;class#Gadget#0" />
+                <element signature="method#getAdjacencyMatrixString#0;class#Gadget#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Gadget4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6447">
+              <caret line="364" column="21" selection-start-line="364" selection-start-column="15" selection-end-line="364" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3450#3451#0" expanded="true" />
+                <element signature="e#3486#3487#0" expanded="true" />
+                <element signature="e#3493#4722#0" />
+                <element signature="e#4728#4959#0" />
+                <element signature="e#4728#5183#0" />
+                <element signature="e#5189#5683#0" />
+                <element signature="e#7523#8320#0" />
+                <element signature="e#8326#8726#0" />
+                <element signature="e#8761#8762#0" expanded="true" />
+                <element signature="e#8793#8794#0" expanded="true" />
+                <element signature="e#8819#8820#0" expanded="true" />
+                <element signature="e#8854#8855#0" expanded="true" />
+                <element signature="e#8880#8881#0" expanded="true" />
+                <element signature="e#8915#8916#0" expanded="true" />
+                <element signature="e#8941#8942#0" expanded="true" />
+                <element signature="e#8976#8977#0" expanded="true" />
+                <element signature="e#9002#9003#0" expanded="true" />
+                <element signature="e#9037#9038#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Gadget1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1593#1594#0" expanded="true" />
+                <element signature="e#1629#1630#0" expanded="true" />
+                <element signature="e#1662#1663#0" expanded="true" />
+                <element signature="e#1693#1694#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Gadget2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="40" column="63" selection-start-line="40" selection-start-column="63" selection-end-line="40" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1776#1777#0" expanded="true" />
+                <element signature="e#1812#1813#0" expanded="true" />
+                <element signature="e#1846#1847#0" expanded="true" />
+                <element signature="e#1878#1879#0" expanded="true" />
+                <element signature="e#1912#1913#0" expanded="true" />
+                <element signature="e#1944#1945#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dis</find>
+      <find>display</find>
+      <find>Gadget</find>
+      <find>attribute</find>
+      <find>analy</find>
+      <find>getpathvalues</find>
+      <find>nrlink</find>
+      <find>pathvalues</find>
+      <find>arrayco</find>
+      <find>print</find>
+      <find>matrix</find>
+      <find>disp</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/GraphCombiner.java" />
+        <option value="$PROJECT_DIR$/src/Gadget1.java" />
+        <option value="$PROJECT_DIR$/src/Gadget2.java" />
+        <option value="$PROJECT_DIR$/src/Gadget4.java" />
+        <option value="$PROJECT_DIR$/src/GraphAnalyzer.java" />
+        <option value="$PROJECT_DIR$/src/GraphStyler.java" />
+        <option value="$PROJECT_DIR$/src/GraphGenerator.java" />
+        <option value="$PROJECT_DIR$/src/Gadget.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/commons_math3_3_6.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/gs_algo_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/jna_4_1_0.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GraphCIS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GraphCIS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GraphCIS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GraphCIS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="GraphCIS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2774ff5-2d99-403d-9280-512e13def68b" name="Default" comment="" />
+      <created>1549276062381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549276062381</updated>
+      <workItem from="1559846896873" duration="19316000" />
+      <workItem from="1562054488076" duration="667000" />
+      <workItem from="1562063424637" duration="1981000" />
+      <workItem from="1562065934517" duration="361000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22325000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09328859" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49785176" visible="true" weight="0.30028328" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990878" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295325" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5021482" side_tool="true" weight="0.30102623" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3295325" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32975295" />
+      <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/../gs-core-1.3/gs-core-1.3-sources.jar!/org/graphstream/graph/Element.java" />
+    <entry file="jar://$PROJECT_DIR$/../gs-core-1.3/gs-core-1.3-sources.jar!/org/graphstream/graph/Node.java" />
+    <entry file="jar://$PROJECT_DIR$/../gs-core-1.3/gs-core-1.3-sources.jar!/org/graphstream/graph/implementations/AbstractGraph.java" />
+    <entry file="jar://$PROJECT_DIR$/../gs-core-1.3/gs-core-1.3-sources.jar!/org/graphstream/graph/implementations/DefaultGraph.java" />
+    <entry file="jar://$PROJECT_DIR$/../gs-core-1.3/gs-core-1.3-sources.jar!/org/graphstream/graph/implementations/AdjacencyListGraph.java" />
+    <entry file="jar://$PROJECT_DIR$/../gs-core-1.3/gs-core-1.3-sources.jar!/org/graphstream/graph/implementations/SingleGraph.java" />
+    <entry file="jar://$PROJECT_DIR$/../../Jeigen-onefat.jar!/jeigen/JeigenJna.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GraphStyler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Jeigen-onefat.jar!/jeigen/DenseMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="1141" column="23" selection-start-line="1141" selection-start-column="23" selection-end-line="1141" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GraphCombiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="90" column="30" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#combineGraphs#0;class#GraphCombiner#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clause.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DNFFormula.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RandomCollection.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gadget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="333" column="45" selection-start-line="333" selection-start-column="45" selection-end-line="333" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#computePathValues#0;class#Gadget#0" />
+            <element signature="method#computePathValues#1;class#Gadget#0" />
+            <element signature="method#reverseBitStringToInt#0;class#Gadget#0" />
+            <element signature="method#intToReverseBitstring#0;class#Gadget#0" />
+            <element signature="method#getPathValues#0;class#Gadget#0" />
+            <element signature="method#getRecursionMatrix#0;class#Gadget#0" />
+            <element signature="method#getMaxEigenvalue#0;class#Gadget#0" />
+            <element signature="method#max#0;class#Gadget#0" />
+            <element signature="method#leftToBitstring#0;class#Gadget#0" />
+            <element signature="method#excludableSubsets#0;class#Gadget#0" />
+            <element signature="method#excludableSubsets#1;class#Gadget#0" />
+            <element signature="method#isFalse#0;class#Gadget#0" />
+            <element signature="method#getAdjacencyMatrixString#0;class#Gadget#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gadget4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6447">
+          <caret line="364" column="21" selection-start-line="364" selection-start-column="15" selection-end-line="364" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3450#3451#0" expanded="true" />
+            <element signature="e#3486#3487#0" expanded="true" />
+            <element signature="e#3493#4722#0" />
+            <element signature="e#4728#4959#0" />
+            <element signature="e#4728#5183#0" />
+            <element signature="e#5189#5683#0" />
+            <element signature="e#7523#8320#0" />
+            <element signature="e#8326#8726#0" />
+            <element signature="e#8761#8762#0" expanded="true" />
+            <element signature="e#8793#8794#0" expanded="true" />
+            <element signature="e#8819#8820#0" expanded="true" />
+            <element signature="e#8854#8855#0" expanded="true" />
+            <element signature="e#8880#8881#0" expanded="true" />
+            <element signature="e#8915#8916#0" expanded="true" />
+            <element signature="e#8941#8942#0" expanded="true" />
+            <element signature="e#8976#8977#0" expanded="true" />
+            <element signature="e#9002#9003#0" expanded="true" />
+            <element signature="e#9037#9038#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gadget1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1593#1594#0" expanded="true" />
+            <element signature="e#1629#1630#0" expanded="true" />
+            <element signature="e#1662#1663#0" expanded="true" />
+            <element signature="e#1693#1694#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gadget2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="40" column="63" selection-start-line="40" selection-start-column="63" selection-end-line="40" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1776#1777#0" expanded="true" />
+            <element signature="e#1812#1813#0" expanded="true" />
+            <element signature="e#1846#1847#0" expanded="true" />
+            <element signature="e#1878#1879#0" expanded="true" />
+            <element signature="e#1912#1913#0" expanded="true" />
+            <element signature="e#1944#1945#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Literal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GraphGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2632">
+          <caret line="463" column="5" lean-forward="true" selection-start-line="463" selection-start-column="5" selection-end-line="463" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#generateCycle#0;class#GraphGenerator#0" />
+            <element signature="docComment;method#generateCompleteGraph#0;class#GraphGenerator#0" />
+            <element signature="docComment;method#generateLadder#0;class#GraphGenerator#0" />
+            <element signature="method#generateLadder#0;class#GraphGenerator#0" />
+            <element signature="docComment;method#generateRandomLinkedCycle#0;class#GraphGenerator#0" />
+            <element signature="method#generateRandomLinkedCycle#0;class#GraphGenerator#0" />
+            <element signature="docComment;method#generateSpokesGraph#0;class#GraphGenerator#0" />
+            <element signature="method#generateSpokesGraph#0;class#GraphGenerator#0" />
+            <element signature="method#generateGridLikeCycle#0;class#GraphGenerator#0" />
+            <element signature="method#generateWeirdGraph#0;class#GraphGenerator#0" />
+            <element signature="docComment;method#generateClosedLadder#0;class#GraphGenerator#0" />
+            <element signature="method#generateClosedLadder#0;class#GraphGenerator#0" />
+            <element signature="docComment;method#generateRandomCycleGadget4#0;class#GraphGenerator#0" />
+            <element signature="method#generateRandomCycleGadget4#0;class#GraphGenerator#0" />
+            <element signature="docComment;method#generateRandomCycleGadget1#0;class#GraphGenerator#0" />
+            <element signature="method#generateRandomCycleGadget1#0;class#GraphGenerator#0" />
+            <element signature="method#generateRandomCycleGadget2#0;class#GraphGenerator#0" />
+            <element signature="method#generateRandomCycleGadget#0;class#GraphGenerator#0" />
+            <element signature="method#generateRandomGadget#0;class#GraphGenerator#0" />
+            <element signature="method#generateRandomGraph#0;class#GraphGenerator#0" />
+            <element signature="method#gadgetizeGraph#0;class#GraphGenerator#0" />
+            <element signature="method#generateSquareGadget#0;class#GraphGenerator#0" />
+            <element signature="method#complement#0;class#GraphGenerator#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GraphAnalyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="250" column="4" selection-start-line="250" selection-start-column="4" selection-end-line="250" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#computeCIS#0;class#GraphAnalyzer#0" />
+            <element signature="method#computeCIS#0;class#GraphAnalyzer#0" />
+            <element signature="docComment;method#computeCIS#1;class#GraphAnalyzer#0" />
+            <element signature="docComment;method#printCIS#0;class#GraphAnalyzer#0" />
+            <element signature="method#printCIS#0;class#GraphAnalyzer#0" />
+            <element signature="docComment;method#inducedGraph#0;class#GraphAnalyzer#0" />
+            <element signature="method#inducedGraph#0;class#GraphAnalyzer#0" />
+            <element signature="docComment;method#isConnected#0;class#GraphAnalyzer#0" />
+            <element signature="method#isConnected#0;class#GraphAnalyzer#0" />
+            <element signature="method#getConnectedSubsets#0;class#GraphAnalyzer#0" />
+            <element signature="method#getConnectedSubsets#1;class#GraphAnalyzer#0" />
+            <element signature="docComment;method#getRandomMaximumMatching#0;class#GraphAnalyzer#0" />
+            <element signature="method#getRandomMaximumMatching#0;class#GraphAnalyzer#0" />
+            <element signature="method#getRandomMatching#0;class#GraphAnalyzer#0" />
+            <element signature="docComment;method#augmentMatching#0;class#GraphAnalyzer#0" />
+            <element signature="method#augmentMatching#0;class#GraphAnalyzer#0" />
+            <element signature="docComment;method#findAugmentingPath#0;class#GraphAnalyzer#0" />
+            <element signature="method#findAugmentingPath#0;class#GraphAnalyzer#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+            <element signature="method#generateGadgets#0;class#Main#0" />
+            <element signature="method#findGoodAndBadCycles#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GraphCIS</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.22478071" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jna-4.1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

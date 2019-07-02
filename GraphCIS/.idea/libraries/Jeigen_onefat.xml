@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Jeigen-onefat">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Jeigen-onefat.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Jeigen-onefat.jar!/" />
+    </SOURCES>
+  </library>
+</component>
